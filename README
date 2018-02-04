@@ -1,0 +1,22 @@
+This README file contains information on the contents of the meta-thermalvision layer.
+
+Please see the corresponding sections below for details.
+
+Patches
+=======
+
+Please submit any patches against the meta-thermalvision layer to the maintainer:
+
+Maintainer: Dariusz Pelowski <dariusz.pelowski@gmail.com>
+
+Table of Contents
+=================
+
+  I. Adding the meta-thermalvision layer to your build
+
+
+I. Adding the meta-thermalvision layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-thermalvision'
+
